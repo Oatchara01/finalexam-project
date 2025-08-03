@@ -11,9 +11,9 @@
 
 ## 🔸 URLs
 - [Landing Page](https://finalexam.lumr.online)
-- [About](https://finalexam.lumr.online/about)
-- [MyResearch](https://finalexam.lumr.online/myresearch)
-- [Manage References](https://finalexam.lumr.online/reference)
+- [About](https://finalexam.lumr.online/about.php)
+- [MyResearch](https://finalexam.lumr.online/myresearch.php)
+- [Manage References](https://finalexam.lumr.online/reference.php)
 
 ## 🔸 GitHub
 - [Link to Repository](https://github.com/Oatchara01/finalexam-project)
