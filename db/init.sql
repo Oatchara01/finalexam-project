@@ -1,0 +1,8 @@
+CREATE DATABASE IF NOT EXISTS finalexam;
+USE finalexam;
+
+CREATE TABLE IF NOT EXISTS references (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    title TEXT NOT NULL,
+    pdf_url TEXT NOT NULL
+);
