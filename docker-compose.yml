@@ -2,7 +2,7 @@ services:
   web:
     build: ./web
     ports:
-      - "8080:80"
+      - "80:80"
     volumes:
       - ./web/uploads:/var/www/html/uploads
     depends_on:
